@@ -1,0 +1,131 @@
+Rectangle accepted: (Jul, 5, 5, 10, 10)
+Rectangle accepted: (Feb, 10, 10, 10, 10)
+Rectangle accepted: (May, 15, 15, 10, 10)
+Rectangle accepted: (Aug, 20, 20, 10, 10)
+Rectangle accepted: (Dec, 25, 25, 10, 10)
+Rectangle accepted: (Mar, 30, 30, 10, 10)
+Rectangle accepted: (Oct, 35, 35, 10, 10)
+Rectangle accepted: (April, 40, 40, 10, 10)
+Rectangle accepted: (Jan, 45, 45, 10, 10)
+Rectangle accepted: (Jun, 50, 50, 10, 10)
+Rectangle accepted: (Sept, 55, 55, 10, 10)
+Rectangle accepted: (Nov, 60, 60, 10, 10)
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 3, Value (Dec, 25, 25, 10, 10)
+Node has depth 1, Value (Feb, 10, 10, 10, 10)
+Node has depth 2, Value (Jan, 45, 45, 10, 10)
+Node has depth 0, Value (Jul, 5, 5, 10, 10)
+Node has depth 3, Value (Jun, 50, 50, 10, 10)
+Node has depth 2, Value (Mar, 30, 30, 10, 10)
+Node has depth 1, Value (May, 15, 15, 10, 10)
+Node has depth 3, Value (Nov, 60, 60, 10, 10)
+Node has depth 2, Value (Oct, 35, 35, 10, 10)
+Node has depth 3, Value (Sept, 55, 55, 10, 10)
+BST size is: 12
+Intersection pairs:
+(April, 40, 40, 10, 10) : (Jan, 45, 45, 10, 10)
+(April, 40, 40, 10, 10) : (Oct, 35, 35, 10, 10)
+(Aug, 20, 20, 10, 10) : (Dec, 25, 25, 10, 10)
+(Aug, 20, 20, 10, 10) : (May, 15, 15, 10, 10)
+(Dec, 25, 25, 10, 10) : (Mar, 30, 30, 10, 10)
+(Feb, 10, 10, 10, 10) : (Jul, 5, 5, 10, 10)
+(Feb, 10, 10, 10, 10) : (May, 15, 15, 10, 10)
+(Jan, 45, 45, 10, 10) : (Jun, 50, 50, 10, 10)
+(Jun, 50, 50, 10, 10) : (Sept, 55, 55, 10, 10)
+(Mar, 30, 30, 10, 10) : (Oct, 35, 35, 10, 10)
+(Nov, 60, 60, 10, 10) : (Sept, 55, 55, 10, 10)
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 2, Value (Jan, 45, 45, 10, 10)
+Node has depth 0, Value (Jul, 5, 5, 10, 10)
+Node has depth 3, Value (Jun, 50, 50, 10, 10)
+Node has depth 2, Value (Mar, 30, 30, 10, 10)
+Node has depth 1, Value (May, 15, 15, 10, 10)
+Node has depth 3, Value (Nov, 60, 60, 10, 10)
+Node has depth 2, Value (Oct, 35, 35, 10, 10)
+Node has depth 3, Value (Sept, 55, 55, 10, 10)
+BST size is: 11
+Rectangle rejected feb
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 3, Value (Jun, 50, 50, 10, 10)
+Node has depth 2, Value (Mar, 30, 30, 10, 10)
+Node has depth 1, Value (May, 15, 15, 10, 10)
+Node has depth 3, Value (Nov, 60, 60, 10, 10)
+Node has depth 2, Value (Oct, 35, 35, 10, 10)
+Node has depth 3, Value (Sept, 55, 55, 10, 10)
+BST size is: 10
+Rectangle rejected: (5, 5, 10, 10)
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 2, Value (Jun, 50, 50, 10, 10)
+Node has depth 1, Value (Mar, 30, 30, 10, 10)
+Node has depth 3, Value (Nov, 60, 60, 10, 10)
+Node has depth 2, Value (Oct, 35, 35, 10, 10)
+Node has depth 3, Value (Sept, 55, 55, 10, 10)
+BST size is: 9
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 2, Value (Jun, 50, 50, 10, 10)
+Node has depth 1, Value (Mar, 30, 30, 10, 10)
+Node has depth 2, Value (Nov, 60, 60, 10, 10)
+Node has depth 3, Value (Sept, 55, 55, 10, 10)
+BST size is: 8
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 2, Value (Jun, 50, 50, 10, 10)
+Node has depth 1, Value (Mar, 30, 30, 10, 10)
+Node has depth 2, Value (Sept, 55, 55, 10, 10)
+BST size is: 7
+BST dump:
+Node has depth 3, Value (April, 40, 40, 10, 10)
+Node has depth 2, Value (Aug, 20, 20, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 2, Value (Jun, 50, 50, 10, 10)
+Node has depth 1, Value (Mar, 30, 30, 10, 10)
+BST size is: 6
+BST dump:
+Node has depth 2, Value (April, 40, 40, 10, 10)
+Node has depth 1, Value (Dec, 25, 25, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 2, Value (Jun, 50, 50, 10, 10)
+Node has depth 1, Value (Mar, 30, 30, 10, 10)
+BST size is: 5
+BST dump:
+Node has depth 1, Value (April, 40, 40, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 2, Value (Jun, 50, 50, 10, 10)
+Node has depth 1, Value (Mar, 30, 30, 10, 10)
+BST size is: 4
+BST dump:
+Node has depth 1, Value (April, 40, 40, 10, 10)
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 1, Value (Jun, 50, 50, 10, 10)
+BST size is: 3
+BST dump:
+Node has depth 0, Value (Jan, 45, 45, 10, 10)
+Node has depth 1, Value (Jun, 50, 50, 10, 10)
+BST size is: 2
+BST dump:
+Node has depth 0, Value (Jun, 50, 50, 10, 10)
+BST size is: 1
+BST dump:
+Node has depth 0, Value (null)
+BST size is: 0

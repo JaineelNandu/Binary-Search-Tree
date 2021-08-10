@@ -1,0 +1,12 @@
+search Jaineel
+insert Jaineel 15 10 5 5
+dump
+regionsearch 10 10 5 5
+insert Isha 20 10 50 10
+regionsearch 5 5 100 100
+insert Jaineel 17 7 10 10 
+intersections
+random
+
+random
+search Jaineel

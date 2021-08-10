@@ -1,0 +1,13 @@
+insert Jul 2 5 10 10 
+insert Feb  1 5 10 10
+insert May  22 5 10 10
+insert Aug  23 5 10 10
+insert Dec  24 5 10 10
+insert Mar  25 5 10 10
+insert Oct  26 5 10 10
+insert April 27 5 10 10
+insert Jan  28 5 10 10
+insert Jun  29 5 10 10
+insert Sept  30 5 10 10
+insert Nov 2 55 10 10
+dump

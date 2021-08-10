@@ -1,0 +1,40 @@
+insert Jul  5 5 10 10 
+insert Feb  10 10 10 10
+insert May  15 15 10 10
+insert Aug  20 20 10 10
+insert Dec  25 25 10 10
+insert Mar  30 30 10 10
+insert Oct  35 35 10 10
+insert April 40 40 10 10
+insert Jan  45 45 10 10
+insert Jun  50 50 10 10
+insert Sept  55 55 10 10
+insert Nov 60 60 10 10
+dump
+intersections
+remove Feb
+dump
+remove feb
+remove 5 5 10 10
+dump
+remove 5 5 10 10
+remove May
+dump
+remove Oct
+dump
+remove Nov
+dump
+remove Sept
+dump
+remove Aug
+dump
+remove Dec
+dump
+remove Mar
+dump
+remove April
+dump
+remove Jan
+dump
+remove Jun
+dump

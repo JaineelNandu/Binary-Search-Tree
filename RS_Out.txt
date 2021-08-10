@@ -1,0 +1,15 @@
+Rectangle not found: Jaineel
+Rectangle accepted: (Jaineel, 15, 10, 5, 5)
+BST dump:
+Node has depth 0, Value (Jaineel, 15, 10, 5, 5)
+BST size is: 1
+Rectangle accepted: (Isha, 20, 10, 50, 10)
+Rectangles intersecting region (5, 5, 100, 100):
+(Isha, 20, 10, 50, 10)
+(Jaineel, 15, 10, 5, 5)
+Rectangle accepted: (Jaineel, 17, 7, 10, 10)
+Intersection pairs:
+(Isha, 20, 10, 50, 10) : (Jaineel, 17, 7, 10, 10)
+(Jaineel, 17, 7, 10, 10) : (Jaineel, 15, 10, 5, 5)
+Rectangle found: (Jaineel, 17, 7, 10, 10)
+Rectangle found: (Jaineel, 15, 10, 5, 5)

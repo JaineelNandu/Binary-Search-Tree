@@ -1,0 +1,9 @@
+insert jaineel 10 10 5 5
+regionsearch 14 2 50 50
+intersections
+dump
+remove 10 10 5 5
+insert jaineel 10 10 5 5
+remove jaineel
+insert isha 15 10 5 5
+search isha
