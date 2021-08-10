@@ -1,5 +1,7 @@
 # Binary-Search-Tree
 
+Project Completion Date: October 2020
+
 In this project we implement a Binary Search Tree, where each node is a rectangle object with a name and its dimensions.
  
 The goal of this project is to learn to manipulate the tree by inserting, removing, finding relevant nodes.
