@@ -2,7 +2,7 @@
 
 Project Completion Date: October 2020
 
-**In this project we implement a Binary Search Tree, where each node is a rectangle object with a name and its dimensions. The goal of this project is to learn to manipulate the tree by inserting, removing, finding relevant nodes.**
+**In this project we implement a Binary Search Tree, where each node is a rectangle object with a name and its dimensions. The goal of this project is to learn to manipulate the tree by inserting, removing, finding relevant nodes._Refer Project\_Specification.pdf for details_**
 
 Project done as a requirement for Virginia Tech Course CS5040: Intermediate Data Structures & Algorithms.
 
